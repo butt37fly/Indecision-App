@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Indecision Component Debe hacer match con el snapshot 1`] = `
+<section class="c-wrapper" style="background-image: url(null);">
+  <div class="c-form"><input data-testid="input" class="c-form__input" type="text" placeholder="Hazme alguna pregunta"><span class="c-form__legend">Finaliza tu pregunta con un signo de interrogación (?)</span></div>
+  <!--v-if-->
+</section>
+`;
