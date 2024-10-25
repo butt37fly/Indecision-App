@@ -11,6 +11,8 @@ El objetivo de este proyecto es aprender y poner en práctica algunas caracterí
 
 Así mismo, como hacer pruebas unitarias utilizando el framework Jest, empleando Mocks para simular peticiones, configurando el entorno de prueba con el método beforeEach(), etc.
 
+Para esto, se desarrolla una interfaz en la cuál el usuario realiza una pregunta, y haciendo uso de la [API de yesno.wtf](https://yesno.wtf/) se obtiene una respuesta aleatoria.
+
 ## Comandos del proyecto
 
 ### Instalación de dependencias
